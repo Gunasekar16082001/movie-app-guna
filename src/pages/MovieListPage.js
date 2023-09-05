@@ -34,7 +34,7 @@ const MovieList = () => {
     <div>
       <div className='head-text'>
         <p>Now</p> 
-      <p>Recent</p>
+       <p>Recent</p>
       </div>
       {movieData.map((movie) => (
         <div
