@@ -1,4 +1,4 @@
-Live demo : https://movie-app-guna.netlify.app/
+Live demo: https://movie-app-guna.netlify.app/
 
 
 # Getting Started with Create React App
